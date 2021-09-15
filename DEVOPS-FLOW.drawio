@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T05:59:26.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="wnbwC5rY1sTgIccOtyII" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T06:01:08.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="MwfgmkAle0AWdlw8YdbO" version="15.2.7" type="github">
   <diagram id="0cRJBpKSSBPZx0d4nWKc" name="Page-1">
     <mxGraphModel dx="1209" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -234,6 +234,12 @@
         </mxCell>
         <mxCell id="ZtvwXoFfoFpCVovVrQUG-69" value="RUNING" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="740" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtvwXoFfoFpCVovVrQUG-70" value="NEXUS&lt;br&gt;TOMCAT&lt;br&gt;SONRAQ&lt;br&gt;TEREFROM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtvwXoFfoFpCVovVrQUG-71" value="UNIX/SHELL SCRIPTS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="730" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
